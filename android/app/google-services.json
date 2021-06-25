@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612593148392",
+    "project_id": "messenger-clone-1b795",
+    "storage_bucket": "messenger-clone-1b795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612593148392:android:129056f4214b4c6359c45d",
+        "android_client_info": {
+          "package_name": "com.example.barbar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612593148392-b4soq275lghho7k3stt8vi1p2ggfifi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barbar_app",
+            "certificate_hash": "8798068491a97539d2441d06c3dc71f824ca1c13"
+          }
+        },
+        {
+          "client_id": "612593148392-mfsrhhth4athounsgocc0ftsjp8qi02h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTpv1lo3OJUbTLE8-Wl7RNnaQb9hdUig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612593148392-mfsrhhth4athounsgocc0ftsjp8qi02h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
